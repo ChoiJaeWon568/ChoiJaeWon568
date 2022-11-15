@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<details>
+    <summary><b>1. TEST</b></summary>
+    <p>
+        TEST (TEST <a href='TEST.md'>TEST.md</a>) and MODEL
+    </p>
+<pre>
+(remote/repository:branch) user@hostname $
+</pre>
+</details>
